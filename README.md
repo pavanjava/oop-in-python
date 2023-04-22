@@ -10,4 +10,4 @@ this repository explain all the concepts of object oriented programming in pytho
 - Magic Methods
 - Decorators (Property Decorators)
 
-#### The notebooks are directly named accordingly please play eith them accordingly
+#### The notebooks are directly named as per table of contents, follow them in the same order
